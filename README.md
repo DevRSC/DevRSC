@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevRSC
 - 👀 I’m interested in Web Development with a mix of Data Science.
-- 🌱 I’m currently learning FLASK
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on a Web Development Project that utilizes new technologies in the industry
 
 <!---
